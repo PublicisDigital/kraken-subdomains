@@ -19,7 +19,8 @@ Example
 		"arguments": [ 
 			["api", "mobile"], 
 			"subdomains", 
-			"path:./.build" 
+			"path:./.build",
+			["/admin", "/protected"] 
 		]
 	}
 }, 
@@ -36,6 +37,8 @@ Example
 `"arguments[1]" : A string specifying the subdomain controller folder`
 		
 `"arguments[2]" : A string specifying where the statics folder is located`
+
+"arguments[3]" : An array of restricted URLs
 
 ##Folder Structure
 
