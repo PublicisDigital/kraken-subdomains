@@ -1,6 +1,6 @@
 {
   "name": "kraken-subdomains",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Subdomain route support and configuration middleware for krakenJS.",
   "main": "./lib/subdomain.js",
   "repository": "git://github.com/killfish/kraken-subdomains.git",
