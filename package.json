@@ -1,9 +1,9 @@
 {
   "name": "kraken-subdomains",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Subdomain route support and configuration middleware for krakenJS.",
   "main": "./lib/subdomain.js",
-  "repository": "git://github.com/andrewapperley/kraken-subdomains.git",
+  "repository": "git://github.com/killfish/kraken-subdomains.git",
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
   },
@@ -16,7 +16,7 @@
     "subdomain",
     "krakenjs"
   ],
-  "author": "Andrew Apperley <andrew.apperley@publicis.ca>",
+  "author": "Craig MacKenzie <craig.mackenzie@nurun.com>",
   "licenses": [
     {
       "type": "MIT",
